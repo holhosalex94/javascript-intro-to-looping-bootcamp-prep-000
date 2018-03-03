@@ -5,10 +5,8 @@ function forLoop(array){
   return array;
 }
 function whileLoop(n){
- var num = [];
  while(n > 0){
-   num.push(n);
+   console.log(n);
    n--;
  }
-  return num;
 }
