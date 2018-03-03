@@ -6,7 +6,7 @@ function forLoop(array){
 }
 function whileLoop(n){
  var num = [];
- while(n >= 0){
+ while(n > 0){
    num.push(n);
  }
   return num;
