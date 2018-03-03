@@ -9,5 +9,5 @@ function whileLoop(n){
  while(n >= 0){
    num.push(n);
  }
-  return array;
+  return num;
 }
