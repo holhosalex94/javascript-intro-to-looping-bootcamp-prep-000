@@ -4,3 +4,7 @@ function forLoop(array){
   }
   return array;
 }
+function whileLoop(n){
+ var num = '';
+  return array;
+}
