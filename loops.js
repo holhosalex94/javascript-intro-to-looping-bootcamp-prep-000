@@ -14,10 +14,8 @@ function whileLoop(n){
 }
 
 function doWhileLoop(array){
- do{}
- while();
-   console.log(n);
-   n--;
+ do{
+   
  }
- return 'done';
+ while();
 }
