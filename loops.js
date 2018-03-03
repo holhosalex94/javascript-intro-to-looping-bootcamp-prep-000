@@ -8,6 +8,7 @@ function whileLoop(n){
  var num = [];
  while(n > 0){
    num.push(n);
+   n--;
  }
   return num;
 }
