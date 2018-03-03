@@ -15,7 +15,7 @@ function whileLoop(n){
 
 function doWhileLoop(array){
  do{
-   array.splice(-1,1);
+   array.pop();
  }
  while(array.length > 0);
 }
